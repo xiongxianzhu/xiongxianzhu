@@ -101,6 +101,8 @@
 <br />
 <br />
 
-<sub>主页访问量</sub>&nbsp; <img src="https://komarev.com/ghpvc/?username=xiongxianzhu&style=flat-square&color=233c37&label=Views" alt="主页访问量统计" />
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=xiongxianzhu&&style=for-the-badge&label=主页访问量统计" align="center"  alt="主页访问量统计" />
+</div>
 
 </div>
