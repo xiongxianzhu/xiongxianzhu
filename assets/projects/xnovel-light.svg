@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="248" viewBox="0 0 520 248" role="img" aria-labelledby="title desc">
+  <title id="title">xnovel</title>
+  <desc id="desc">一个支持接入多种 AI 大模型的开源小说创作平台，覆盖灵感构思、大纲规划、正文写作与作品管理。 主语言：TypeScript。Star：1，Fork：0。</desc>
+  <rect x="1" y="1" width="518" height="246" rx="2" fill="#FAFBFD" stroke="#D8DEE8" />
+  <g font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', Arial, sans-serif">
+    <rect x="26" y="25" width="3" height="15" rx="0" fill="#74619F" />
+    <text x="39" y="38" font-size="13" fill="#74619F" letter-spacing="1">AI 写作</text>
+    <text x="486" y="38" text-anchor="end" font-family="monospace" font-size="12" fill="#69778C">07 / 10</text>
+    <text x="26" y="80" font-size="24" font-weight="700" fill="#232D3E">xnovel</text>
+    <text x="26" y="116" font-size="16" fill="#536176">一个支持接入多种 AI 大模型的开源小说创作平台，覆</text>
+<text x="26" y="141" font-size="16" fill="#536176">盖灵感构思、大纲规划、正文写作与作品管理。</text>
+    <path d="M26 190H494" stroke="#D8DEE8" />
+    <circle cx="32" cy="219" r="4" fill="#74619F" />
+    <text x="45" y="224" font-size="13" fill="#536176">TypeScript</text>
+    <text x="225" y="224" font-size="13" fill="#536176">Star 1</text>
+    <text x="342" y="224" font-size="13" fill="#536176">Fork 0</text>
+    <path d="M472 225L488 209M477 209H488V220" fill="none" stroke="#74619F" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>

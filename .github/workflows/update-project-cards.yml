@@ -1,0 +1,42 @@
+name: Update project cards
+
+on:
+  schedule:
+    # 北京时间 08:17，按月内奇数日运行；跨月间隔可能不足两天。
+    - cron: '17 0 */2 * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate-project-cards.py
+      - .github/workflows/update-project-cards.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-project-cards
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch GitHub data and render cards
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/generate-project-cards.py
+      - name: Save changed cards
+        run: |
+          git add -- assets/projects/*.svg
+          if git diff --cached --quiet; then
+            echo "Project cards are already up to date."
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m "docs(profile): refresh project cards"
+          git push

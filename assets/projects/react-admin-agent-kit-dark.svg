@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="248" viewBox="0 0 520 248" role="img" aria-labelledby="title desc">
+  <title id="title">react-admin-agent-kit</title>
+  <desc id="desc">一套规范优先、用于指导 AI Agent 创建生产级 React 管理后台的工程骨架。 主语言：未标注。Star：0，Fork：0。</desc>
+  <rect x="1" y="1" width="518" height="246" rx="2" fill="#171B23" stroke="#343C4B" />
+  <g font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', Arial, sans-serif">
+    <rect x="26" y="25" width="3" height="15" rx="0" fill="#B9ADE0" />
+    <text x="39" y="38" font-size="13" fill="#B9ADE0" letter-spacing="1">Agent 工程</text>
+    <text x="486" y="38" text-anchor="end" font-family="monospace" font-size="12" fill="#929FB2">08 / 10</text>
+    <text x="26" y="80" font-size="24" font-weight="700" fill="#EDF1F7">react-admin-agent-kit</text>
+    <text x="26" y="116" font-size="16" fill="#BEC7D5">一套规范优先、用于指导 AI Agent 创建生产级 React</text>
+<text x="26" y="141" font-size="16" fill="#BEC7D5"> 管理后台的工程骨架。</text>
+    <path d="M26 190H494" stroke="#343C4B" />
+    <circle cx="32" cy="219" r="4" fill="#B9ADE0" />
+    <text x="45" y="224" font-size="13" fill="#BEC7D5">未标注</text>
+    <text x="225" y="224" font-size="13" fill="#BEC7D5">Star 0</text>
+    <text x="342" y="224" font-size="13" fill="#BEC7D5">Fork 0</text>
+    <path d="M472 225L488 209M477 209H488V220" fill="none" stroke="#B9ADE0" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</svg>
