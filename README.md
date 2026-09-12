@@ -1,113 +1,88 @@
 <div align="center">
-<h1>Hi, I'm xiongxiongzhu 👋 💻</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font='Marck+Script'&pause=300&color=F7601E&center=true&width=435&lines=Hi%2C+I'm+zhuxiongxian.;Welcome+to+my+github!!!" alt="Typing SVG" /></a>
+
+<img src="./assets/profile-header.png" width="100%" alt="保持好奇，认真生活。" />
+
+# 你好，我是 xiongxiongzhu 👋
+
+软件工程师 · 开源爱好者 · All in AI
+
+喜欢写代码，也喜欢折腾有趣的东西。
+
+<a href="https://xxivo.com"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-233C37?style=for-the-badge" alt="个人主页" /></a>
+<a href="https://github.com/xiongxianzhu"><img src="https://img.shields.io/badge/%E6%88%91%E7%9A%84%E4%BB%A3%E7%A0%81-24292F?style=for-the-badge&logo=github&logoColor=white" alt="我的 GitHub 代码" /></a>
+
+<br />
+<br />
+
+[关于我](#关于我) &nbsp; / &nbsp; [技术栈](#技术栈) &nbsp; / &nbsp; [找到我](#找到我)
+
 </div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=xiongxianzhu&&style=for-the-badge&label=Visitors" align="center" />
-</div>
-<br>
 
-![](https://activity-graph.herokuapp.com/graph?username=xiongxianzhu&theme=xcode)
+## 关于我
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xiongxianzhu&theme=solarized-dark&hide_border=true&border_radius=0&locale=zh&fire=DD2727&ring=DD2BB9&date_format=[Y.]m.j)](https://git.io/streak-stats)
+常用 **Python、Go、Rust、FastAPI 和 React**，日常在 **MacBook Pro** 上开发，也使用 **Linux 和 Windows**。
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=xiongxianzhu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=cn&title_color=00E3FF&icon_color=e91e63&text_color=ff5722&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github-readme-stats.vercel.app/api?username=xiongxianzhu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&locale=cn&title_color=00E3FF&icon_color=e91e63&text_color=ff5722&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongxianzhu&layout=compact&hide=php&show_icons=true&count_private=true&hide_border=true&locale=cn&title_color=a00c39&icon_color=e91e63&text_color=ff5722&bg_color=0,73FA79,73FDFF,D783FF&card_width=445)](https://github-readme-stats.vercel.app/api/top-langs/?username=xiongxianzhu&layout=compact&hide=php&show_icons=true&count_private=true&hide_border=true&locale=cn&title_color=a00c39&icon_color=e91e63&text_color=ff5722&bg_color=0,73FA79,73FDFF,D783FF&card_width=445)
+**All in AI**，实践 Vibe Coding，把 AI 工具和 Agent 融入日常开发。经常关注 AI 资讯，参与交流，探索新工具与新用法。
 
+喜欢安静，享受自由。对感兴趣的事保持专注，按自己的节奏慢慢前进。
 
-[![hexo-theme-xxcoding](https://github-readme-stats.vercel.app/api/pin/?username=xiongxianzhu&repo=hexo-theme-xxcoding&show_owner=true&hide_border=true&title_color=16a8ad&icon_color=e91e63&text_color=d73a49&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/xiongxianzhu/hexo-theme-xxcoding)
-[![qingmi](https://github-readme-stats.vercel.app/api/pin/?username=xiongxianzhu&repo=qingmi&show_owner=true&hide_border=true&title_color=16a8ad&icon_color=e91e63&text_color=d73a49&bg_color=0,73FA79,73FDFF,D783FF)](https://github.com/xiongxianzhu/qingmi)
-[![cookiecutter-flask](https://github-readme-stats.vercel.app/api/pin/?username=xiongxianzhu&repo=cookiecutter-flask&show_owner=true&hide_border=true&title_color=16a8ad&icon_color=e91e63&text_color=d73a49&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/xiongxianzhu/cookiecutter-flask)
-[![cookiecutter-django](https://github-readme-stats.vercel.app/api/pin/?username=xiongxianzhu&repo=cookiecutter-django&show_owner=true&hide_border=true&title_color=16a8ad&icon_color=e91e63&text_color=d73a49&bg_color=0,73FA79,73FDFF,D783FF)](https://github.com/xiongxianzhu/cookiecutter-django)
-[![ExcelUtils](https://github-readme-stats.vercel.app/api/pin/?username=xiongxianzhu&repo=ExcelUtils&show_owner=true&hide_border=true&title_color=16a8ad&icon_color=e91e63&text_color=d73a49&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79)](https://github.com/xiongxianzhu/ExcelUtils)
-[![code-style-guide](https://github-readme-stats.vercel.app/api/pin/?username=xiongxianzhu&repo=code-style-guide&show_owner=true&hide_border=true&title_color=16a8ad&icon_color=e91e63&text_color=d73a49&bg_color=0,73FA79,73FDFF,D783FF)](https://github.com/xiongxianzhu/code-style-guide)
+## 技术栈
 
-
-## Profile
-
-I am a software engineer who is passionate about making open source code more accessible, creating technologies that improve people's standards, and building communities.
-
-Some technologies I enjoy working with include Python, Go, Nginx, Linux and Docker.
-
-I like to be free and unrestrained in my own schedule.
-
-Like coding, love life.
-
-Like home, not good at active communication.
-
-I like to toss about what I like, and even forget to sleep and eat.
-
-Don't forget the sense of crisis, have a backup habit.
-
-I like to keep my feet on the ground and move slowly toward my dreams.
-
-A guy with a geek complex, pursuing relative spiritual freedom, a bit lazy in life.
-
-This is me, a post-90s Cancer program developer.
-
-## Connect with me
+### 语言与框架
 
 <p>
-<a href="https://zhuxiongxian.cc" target="_blank"><img src=https://img.shields.io/badge/BLOG-XX'S%20BLOG-%23616161.svg?&style=for-the-badge&logoColor=white&labelColor=d81b60 alt="Blog" /></a>
-<a href="http://weibo.com/929679459" target="_blank"><img src=https://img.shields.io/badge/Sina%20Weibo-%23E6162D.svg?&style=for-the-badge&logo=SinaWeibo&logoColor=white alt=Weibo /></a>
-<a href="https://space.bilibili.com/200731874" target="_blank"><img src=https://img.shields.io/badge/Bilibili-%2300A1D6.svg?&style=for-the-badge&logo=Bilibili&logoColor=white alt=Bilibili /></a>
-<img src=https://img.shields.io/badge/WeChat-xxshwz-%23616161.svg?&style=for-the-badge&logo=WeChat&logoColor=white&labelColor=07C160 alt=WeChat />
-<a href="https://github.com/xiongxianzhu" target="_blank"><img src=https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white alt=github /></a>
-<a href="https://www.facebook.com/xiongxian.zhu" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=Facebook /></a>
-<a href="https://twitter.com/xiongxianzhu" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Twitter /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-007D9C?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-353535?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Java-AD5028?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
+| 方向 | 技术 |
+| :--- | :--- |
+| **前端与移动端** | React · Vue.js · HTML5 · CSS3 · Bootstrap · Android |
+| **后端框架** | FastAPI · Django · Flask |
+| **AI 应用框架** | LangChain |
+| **数据库与缓存** | MySQL · PostgreSQL · Oracle · MariaDB · MongoDB · Redis |
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### 环境与工具
 
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+<p>
+  <img src="https://img.shields.io/badge/Linux-24292F?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-237A48?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Git-C45135?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-435A40?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+| 方向 | 技术 |
+| :--- | :--- |
+| **持续集成** | GitLab · Jenkins |
+| **搜索与监控** | Elasticsearch · Kibana |
+| **包管理** | uv（Python）· pnpm（Node.js） |
+| **开发设备** | MacBook Pro |
+
+## 找到我
+
+| 平台 | 入口 |
+| :--- | :--- |
+| **个人主页** | [xxivo.com](https://xxivo.com) |
+| **GitHub** | [@xiongxianzhu](https://github.com/xiongxianzhu) |
+| **哔哩哔哩** | [个人空间](https://space.bilibili.com/200731874) |
+| **微博** | [个人主页](http://weibo.com/929679459) |
+| **X** | [@xiongxianzhu](https://x.com/xiongxianzhu) |
+| **Facebook** | [Xiongxian Zhu](https://www.facebook.com/xiongxian.zhu) |
+
+<br />
+
+<div align="center">
+
+<sub>热爱代码，也热爱生活。</sub>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=xiongxianzhu&style=flat-square&color=233c37&label=%E8%AE%BF%E9%97%AE%E9%87%8F" alt="主页访问量" />
+
 </div>
-
-</td><td valign="top" width="33%">
-
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-<a href="https://www.elastic.co/kibana/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/> 
-
