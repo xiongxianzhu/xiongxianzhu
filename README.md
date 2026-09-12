@@ -102,7 +102,7 @@
 <br />
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=xiongxianzhu&&style=for-the-badge&label=主页访问量统计" align="center"  alt="主页访问量统计" />
+<img src="https://komarev.com/ghpvc/?username=xiongxianzhu&&style=for-the-badge&label=PROFILE+VIEWS" align="center"  alt="主页访问量统计" />
 </div>
 
 </div>
