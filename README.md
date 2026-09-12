@@ -14,7 +14,7 @@
 <br />
 <br />
 
-[关于我](#关于我) &nbsp; / &nbsp; [技术栈](#技术栈) &nbsp; / &nbsp; [推荐项目](#推荐开源项目) &nbsp; / &nbsp; [找到我](#找到我)
+[关于我](#关于我) &nbsp; / &nbsp; [技术栈](#技术栈) &nbsp; / &nbsp; [找到我](#找到我) &nbsp; / &nbsp; [推荐项目](#推荐开源项目)
 
 </div>
 
@@ -63,89 +63,6 @@
 | **包管理** | uv（Python）· pnpm（Node.js） |
 | **开发设备** | MacBook Pro |
 
-## 推荐开源项目
-
-从开发工具到 AI 创作，分享我的 10 个开源项目。
-
-<sub>简介、主语言、Star 与 Fork 数据隔日从 GitHub 同步（月初可能连续更新）。</sub>
-
-<p align="center">
-  <a href="https://github.com/xiongxianzhu/xskills">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/xskills-dark.svg" />
-      <img src="./assets/projects/xskills-light.svg" width="400" alt="xskills 项目卡片" />
-    </picture>
-  </a>
-  <a href="https://github.com/xiongxianzhu/create-fastapi">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/create-fastapi-dark.svg" />
-      <img src="./assets/projects/create-fastapi-light.svg" width="400" alt="create-fastapi 项目卡片" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/xiongxianzhu/create-flask">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/create-flask-dark.svg" />
-      <img src="./assets/projects/create-flask-light.svg" width="400" alt="create-flask 项目卡片" />
-    </picture>
-  </a>
-  <a href="https://github.com/xiongxianzhu/xblog">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/xblog-dark.svg" />
-      <img src="./assets/projects/xblog-light.svg" width="400" alt="xblog 项目卡片" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/xiongxianzhu/hexo-theme-xxcoding">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/hexo-theme-xxcoding-dark.svg" />
-      <img src="./assets/projects/hexo-theme-xxcoding-light.svg" width="400" alt="hexo-theme-xxcoding 项目卡片" />
-    </picture>
-  </a>
-  <a href="https://github.com/xiongxianzhu/qingmi">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/qingmi-dark.svg" />
-      <img src="./assets/projects/qingmi-light.svg" width="400" alt="qingmi 项目卡片" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/xiongxianzhu/xnovel">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/xnovel-dark.svg" />
-      <img src="./assets/projects/xnovel-light.svg" width="400" alt="xnovel 项目卡片" />
-    </picture>
-  </a>
-  <a href="https://github.com/xiongxianzhu/react-admin-agent-kit">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/react-admin-agent-kit-dark.svg" />
-      <img src="./assets/projects/react-admin-agent-kit-light.svg" width="400" alt="react-admin-agent-kit 项目卡片" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/xiongxianzhu/chatgpt-pets">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/chatgpt-pets-dark.svg" />
-      <img src="./assets/projects/chatgpt-pets-light.svg" width="400" alt="chatgpt-pets 项目卡片" />
-    </picture>
-  </a>
-  <a href="https://github.com/xiongxianzhu/chatgpt-theme-forge">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/chatgpt-theme-forge-dark.svg" />
-      <img src="./assets/projects/chatgpt-theme-forge-light.svg" width="400" alt="chatgpt-theme-forge 项目卡片" />
-    </picture>
-  </a>
-</p>
-
-[查看全部项目 →](https://github.com/xiongxianzhu?tab=repositories)
-
 ## 找到我
 
 | 平台 | 入口 |
@@ -156,6 +73,24 @@
 | **微博** | [个人主页](http://weibo.com/929679459) |
 | **X** | [@xiongxianzhu](https://x.com/xiongxianzhu) |
 | **Facebook** | [Xiongxian Zhu](https://www.facebook.com/xiongxian.zhu) |
+
+## 推荐开源项目
+
+从开发工具到 AI 创作，分享我的 10 个开源项目。
+
+<sub>简介、主语言、Star 与 Fork 数据隔日从 GitHub 同步（月初可能连续更新）。</sub>
+
+<p><a href="https://github.com/xiongxianzhu/xskills"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/xskills-dark.svg" /><img src="./assets/projects/xskills-light.svg" width="50%" alt="xskills 项目卡片" /></picture></a><a href="https://github.com/xiongxianzhu/create-fastapi"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/create-fastapi-dark.svg" /><img src="./assets/projects/create-fastapi-light.svg" width="50%" alt="create-fastapi 项目卡片" /></picture></a></p>
+
+<p><a href="https://github.com/xiongxianzhu/create-flask"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/create-flask-dark.svg" /><img src="./assets/projects/create-flask-light.svg" width="50%" alt="create-flask 项目卡片" /></picture></a><a href="https://github.com/xiongxianzhu/xblog"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/xblog-dark.svg" /><img src="./assets/projects/xblog-light.svg" width="50%" alt="xblog 项目卡片" /></picture></a></p>
+
+<p><a href="https://github.com/xiongxianzhu/hexo-theme-xxcoding"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/hexo-theme-xxcoding-dark.svg" /><img src="./assets/projects/hexo-theme-xxcoding-light.svg" width="50%" alt="hexo-theme-xxcoding 项目卡片" /></picture></a><a href="https://github.com/xiongxianzhu/qingmi"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/qingmi-dark.svg" /><img src="./assets/projects/qingmi-light.svg" width="50%" alt="qingmi 项目卡片" /></picture></a></p>
+
+<p><a href="https://github.com/xiongxianzhu/xnovel"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/xnovel-dark.svg" /><img src="./assets/projects/xnovel-light.svg" width="50%" alt="xnovel 项目卡片" /></picture></a><a href="https://github.com/xiongxianzhu/react-admin-agent-kit"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/react-admin-agent-kit-dark.svg" /><img src="./assets/projects/react-admin-agent-kit-light.svg" width="50%" alt="react-admin-agent-kit 项目卡片" /></picture></a></p>
+
+<p><a href="https://github.com/xiongxianzhu/chatgpt-pets"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/chatgpt-pets-dark.svg" /><img src="./assets/projects/chatgpt-pets-light.svg" width="50%" alt="chatgpt-pets 项目卡片" /></picture></a><a href="https://github.com/xiongxianzhu/chatgpt-theme-forge"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/chatgpt-theme-forge-dark.svg" /><img src="./assets/projects/chatgpt-theme-forge-light.svg" width="50%" alt="chatgpt-theme-forge 项目卡片" /></picture></a></p>
+
+[查看全部项目 →](https://github.com/xiongxianzhu?tab=repositories)
 
 <br />
 
